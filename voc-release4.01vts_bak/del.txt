@@ -1,0 +1,23 @@
+      // second color channel
+   //   s += dims[0]*dims[1];
+      //double dy2 = *(s+1) - *(s-1);
+    //  double dx2 = *(s+dims[0]) - *(s-dims[0]);
+   //   double v2 = dx2*dx2 + dy2*dy2;
+
+      // third color channel
+   //   s += dims[0]*dims[1];
+   //   double dy3 = *(s+1) - *(s-1);
+     // double dx3 = *(s+dims[0]) - *(s-dims[0]);
+    //  double v3 = dx3*dx3 + dy3*dy3;*/
+
+      // pick channel with strongest gradient
+    //  if (v2 > v) {
+	//v = v2;
+//	dx = dx2;
+//	dy = dy2;
+ //     } 
+     // if (v3 > v) {
+//	v = v3;
+//	dx = dx3;
+	//dy = dy3;
+    //  }
